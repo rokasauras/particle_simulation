@@ -75,7 +75,7 @@ plt.plot()</code></pre>
 plt.xlim([0, 100])
 plt.plot()</code></pre>
         </li>
-        <li><strong>Generate 3D Visualisation:</strong>
+        <li><strong>Generate 3-Dimensional Visualisation:</strong>
             <pre><code>Graphics3D(df=Data)</code></pre>
         </li>
     </ol>
