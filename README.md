@@ -95,6 +95,8 @@ plt.plot()</code></pre>
         <li><strong>Simulation Parameters:</strong> Modify the simulation behavior by changing parameters in the <code>runSimulation</code> function.</li>
     </ul>
 
+ <h2>Improvements</h2>
+     <p>Automatically save graphs to file.</p>
   <h2>Contributing</h2>
     <p>Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.</p>
 </body>
