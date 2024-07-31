@@ -98,6 +98,6 @@ plt.plot()</code></pre>
  <h2>Improvements</h2>
      <p>Automatically save graphs to file.</p>
   <h2>Contributing</h2>
-    <p>Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.</p>
+    <p>Contributions are welcome! Please submit a pull request or open an issue to discuss any changes you want to make :)</p>
 </body>
 </html>
